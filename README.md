@@ -13,7 +13,7 @@ USE, PRINT.
 
 COMMENTS -- /* */
 
-Not Case sensitive
+Not Case sensitive.
 
 Server.Database.Schema.Table | Stored Procedure etc.
 
