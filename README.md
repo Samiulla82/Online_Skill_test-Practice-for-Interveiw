@@ -1,7 +1,7 @@
 # SQL Lessons - Training Materials
 This repo contains sample querying exercises, examples, huge data files and training materials with transact-SQL on microsoft ms-sql server
 # Curriculum
-#Introduction to MS-SQL Server
+# Introduction to MS-SQL Server
 
 Notations
 CAMEL - evrenselYazilim.
