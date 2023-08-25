@@ -3,11 +3,11 @@ This repo contains sample querying exercises, examples, huge data files and trai
 # Curriculum  
 Introduction to MS-SQL Server  
 Notations  
-CAMEL - evrenselYazilim  
-PASCAL - EvrenselYazilim  
-UNDERSCORE - evrensel_Yazilim  
-UPPERCASE - EVRENSEL_YAZILIM  
-HUNGARY - tblEvrenselYazilim.
+CAMEL - universal_software 
+PASCAL - universal_software  
+UNDERSCORE - universal_software
+UPPERCASE - universal_software  
+HUNGARY - tbl universal_software.
 
 USE, PRINT  
 COMMENTS -- /* */  
