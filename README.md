@@ -27,7 +27,7 @@ TCL Transaction Control Language
 CREATE SCHEMA
 DROP SCHEMA
 
-# Database
+# Database.
 CREATE DATABASE
 DROP DATABASE
 
