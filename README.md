@@ -5,7 +5,7 @@ Introduction to MS-SQL Server
 Notations  
 CAMEL - universal_software 
 PASCAL - universal_software  
-UNDERSCORE - universal_software
+UNDERSCORE - universal_software  
 UPPERCASE - universal_software  
 HUNGARY - tbl universal_software.
 
