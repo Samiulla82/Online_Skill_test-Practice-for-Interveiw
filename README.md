@@ -11,7 +11,9 @@ UPPERCASE - EVRENSEL_YAZILIM.
 HUNGARY - tblEvrenselYazilim.
 
 USE, PRINT.
+
 COMMENTS -- /* */
+
 Not Case sensitive.
 
 Server.Database.Schema.Table | Stored Procedure etc.
