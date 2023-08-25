@@ -1,7 +1,8 @@
 # SQL Lessons - Training Materials
 This repo contains sample querying exercises, examples, huge data files and training materials with transact-SQL on microsoft ms-sql server
-Curriculum
+# Curriculum
 Introduction to T-SQL
+
 Notations
 CAMEL - evrenselYazilim
 PASCAL - EvrenselYazilim
@@ -9,24 +10,32 @@ UNDERSCORE - evrensel_Yazilim
 UPPERCASE - EVRENSEL_YAZILIM
 HUNGARY - tblEvrenselYazilim
 USE, PRINT
+
 COMMENTS -- /* */
+
 Not Case sensitive
+
 Server.Database.Schema.Table | Stored Procedure etc.
-Command Language
+
+# Command Language
 DML Data Definition Language
-DML Data Manupulation Language
+DML Data Manupulation Language 
 DCL Data Control Language
 TCL Transaction Control Language
-Schema
+
+# Schema
 CREATE SCHEMA
 DROP SCHEMA
-Database
+
+# Database
 CREATE DATABASE
 DROP DATABASE
-Table
+
+# Table
 CREATE/ALTER/DROP TABLE
 TRUNCATE TABLE
-Data Manipulations
+
+# Data Manipulations
 INSERT INTO = INSERT
 SELECT
 DELETE
@@ -34,13 +43,15 @@ UPDATE
 WHERE
 INSERT INTO SELECT
 SELECT INTO
-SQL Operators
+
+# SQL Operators
 Arithmetic Operators ➥ + - * / %
 Bitwise Operators ➥ & | ^
 Comparison Operators ➥ = != < > <= >= <>
 Compound Operators ➥ += -= *= /= %=
 Logical Operators ➥ AND, OR, BETWEEN, IN, LIKE, NOT, ALL, ANY, SOME
-MS-SQL Functions
+
+# MS-SQL Functions
 Aggregate Functions
 AVG, COUNT, SUM, MIN, MAX
 Grouping Statements
