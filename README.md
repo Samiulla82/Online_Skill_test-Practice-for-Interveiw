@@ -52,48 +52,50 @@ Logical Operators ➥ AND, OR, BETWEEN, IN, LIKE, NOT, ALL, ANY, SOME
 # MS-SQL Functions
 Aggregate Functions
 AVG, COUNT, SUM, MIN, MAX
-Grouping Statements
+#  Grouping Statements
 GROUP BY
 HAVING
-Constrait
+# Constrait
 NULL / NOT NULL
 UNIQUE
 CHECK
 DEFAULT
 PRIMARY KEY - IDENTITY(1,1)
 FOREIGN KEY - CASCADE, SET NULL
-Sub-Query
-Joins
+# Sub-Query
+
+# Joins
 FULL OUTER JOIN = FULL JOIN
 LEFT OUTER JOIN = LEFT JOIN
 RIGHT OUTER JOIN = RIGHT JOIN
 CROSS JOIN
 INNER JOIN
 SELF JOIN
-View
+
+# View
 CREATE VIEW AS
 ALTER VIEW AS
 DROP VIEW
-Programmatic Concepts
+ #  Programmatic Concepts
 DECLARE @, SET, SELECT, PRINT
 BEGIN - END
 IF, IF-ELSE, IF-ELSE IF-ELSE
 WHILE - BREAK - CONTINUE
 CASE - WHEN THEN - ELSE END
 CURSOR
-Function
+#  Function
 Inline Functions
 RETURN TABLE
 Scalar-Value Functions
 RETURN VALUE
-Stored Procedure
+#  Stored Procedure
 CREATE/ALTER/DROP PROC
 PROC = PROCEDURE
 Set default value
 Input/Output parameters
 RETURN
 EXEC = EXECUTE
-Trigger
+#  Trigger
 DDL TRIGGER
 AFTER/FOR DROP_TABLE,DROP_PROCEDURE, CREATE_FUNCTION
 ON DATABASE
@@ -103,7 +105,7 @@ INSERTED - DELETED TABLE
 UPDATED = DELETED + INSERTED
 INSTEAD OF INSERT
 ENABLE-DISABLE TRIGGER
-Index
+#  Index
 Transactions
 TRAN = TRANSACTION
 BEGIN TRAN
@@ -114,9 +116,7 @@ NESTED TRANSACTIONS
 Sample Databases
 You can find sample databases (Northwind, Adventure-Works, Pubs) for Microsoft's SQL databases by this link
 
-Sample Data
-Excel 1 - 800.000 sample records
-Excel 2 - 1.200.000 sample records
+
 Useful Links
 Transact-SQL Reference
 W3Schools SQL Tutorial
