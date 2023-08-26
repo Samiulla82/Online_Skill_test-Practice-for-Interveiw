@@ -15,7 +15,7 @@ Not Case sensitive
 Server.Database.Schema.Table | Stored Procedure etc.
 
 # Command Language
-DML Data Definition Language  
+DDL Data Definition Language  
 DML Data Manupulation Language  
 DCL Data Control Language  
 TCL Transaction Control Language
