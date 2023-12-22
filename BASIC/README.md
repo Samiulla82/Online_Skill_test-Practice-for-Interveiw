@@ -21,7 +21,7 @@ DCL Data Control Language
 TCL Transaction Control Language
 
 # Schema
-CREATE SCHEMA  
+CREATE /SCHEMA  
 DROP SCHEMA
 
 # Database
